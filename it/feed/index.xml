@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TrackBot Blog</title>
-	<atom:link href="/it/feed/" rel="self" type="application/rss+xml" />
-	<link>/it/</link>
+	<atom:link href="https://blog.trackbot.eu/it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.trackbot.eu/it/</link>
 	<description>Il bot gratuito per tracciare le spedizioni su Telegram</description>
 	<lastBuildDate>Fri, 02 Aug 2024 19:57:09 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/10/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>https://blog.trackbot.eu/wp-content/uploads/2020/10/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>TrackBot Blog</title>
-	<link>/it/</link>
+	<link>https://blog.trackbot.eu/it/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ora puoi consultare la cronologia completa delle spedizioni con la mini app dedicata</title>
-		<link>/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/</link>
+		<link>https://blog.trackbot.eu/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Fri, 02 Aug 2024 19:57:08 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=564</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=564</guid>
 
 					<description><![CDATA[<p>Ora è possibile vedere la cronologia completa di una spedizione in TrackBot. Basta premere il pulsante 📦 Apri cronologia completa su una notifica per aprire la mini app dedicata. Premi qua per provare TrackBot, è gratis!</p>
-<p>The article <a href="/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/">Ora puoi consultare la cronologia completa delle spedizioni con la mini app dedicata</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/">Ora puoi consultare la cronologia completa delle spedizioni con la mini app dedicata</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/08/Feed-copy-1-1024x1024.jpg" alt="" class="wp-image-565" style="width:840px;height:auto" srcset="/wp-content/uploads/2024/08/Feed-copy-1-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Feed-copy-1-300x300.jpg 300w, /wp-content/uploads/2024/08/Feed-copy-1-150x150.jpg 150w, /wp-content/uploads/2024/08/Feed-copy-1-768x768.jpg 768w, /wp-content/uploads/2024/08/Feed-copy-1-700x700.jpg 700w, /wp-content/uploads/2024/08/Feed-copy-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-1024x1024.jpg" alt="" class="wp-image-565" style="width:840px;height:auto" srcset="https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-1024x1024.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-300x300.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-150x150.jpg 150w, https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-768x768.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1-700x700.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2024/08/Feed-copy-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -53,7 +53,7 @@
 
 
 <p><a href="https://t.me/TrackBot">Premi qua</a> per provare TrackBot, è gratis!</p>
-<p>The article <a href="/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/">Ora puoi consultare la cronologia completa delle spedizioni con la mini app dedicata</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/ora-puoi-consultare-la-cronologia-completa-delle-spedizioni-con-la-mini-app-dedicata/">Ora puoi consultare la cronologia completa delle spedizioni con la mini app dedicata</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -61,18 +61,18 @@
 			</item>
 		<item>
 		<title>TrackBot Pro, la piattaforma per tracciare le spedizioni della tua attività</title>
-		<link>/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/</link>
+		<link>https://blog.trackbot.eu/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Tue, 20 Feb 2024 10:10:10 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=550</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=550</guid>
 
 					<description><![CDATA[<p>Da oggi è disponibile per tutti TrackBot Pro, la piattaforma business per tracciare le spedizioni della tua attività e tenere aggiornati i destinatari con notifiche e pagina di tracking. Con TrackBot Pro tieni d&#8217;occhio tutte le spedizioni con una dashboard intuitiva, importi gli ordini in automatico dai tuoi store, tramite l&#8217;integrazione con il bot Telegram [&#8230;]</p>
-<p>The article <a href="/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/">TrackBot Pro, la piattaforma per tracciare le spedizioni della tua attività</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/">TrackBot Pro, la piattaforma per tracciare le spedizioni della tua attività</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="756" src="/wp-content/uploads/2024/02/Social-Orizzontale-1024x756.jpg" alt="" class="wp-image-551" srcset="/wp-content/uploads/2024/02/Social-Orizzontale-1024x756.jpg 1024w, /wp-content/uploads/2024/02/Social-Orizzontale-300x221.jpg 300w, /wp-content/uploads/2024/02/Social-Orizzontale-768x567.jpg 768w, /wp-content/uploads/2024/02/Social-Orizzontale-1536x1134.jpg 1536w, /wp-content/uploads/2024/02/Social-Orizzontale-2048x1512.jpg 2048w, /wp-content/uploads/2024/02/Social-Orizzontale-700x517.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="756" src="https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-1024x756.jpg" alt="" class="wp-image-551" srcset="https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-1024x756.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-300x221.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-768x567.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-1536x1134.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-2048x1512.jpg 2048w, https://blog.trackbot.eu/wp-content/uploads/2024/02/Social-Orizzontale-700x517.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -93,7 +93,7 @@
 
 
 <p>Puoi trovare tutti i dettagli e attivare la tua prova gratuita sul <a href="https://trackbot.pro/?ref=blog">sito ufficiale di TrackBot Pro</a>.</p>
-<p>The article <a href="/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/">TrackBot Pro, la piattaforma per tracciare le spedizioni della tua attività</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/trackbot-pro-la-piattaforma-per-tracciare-le-spedizioni-della-tua-attivita/">TrackBot Pro, la piattaforma per tracciare le spedizioni della tua attività</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -101,18 +101,18 @@
 			</item>
 		<item>
 		<title>Nuovi corrieri: Rhenus Logistics e Liccardi Trasporti</title>
-		<link>/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/</link>
+		<link>https://blog.trackbot.eu/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2023 13:59:27 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=543</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=543</guid>
 
 					<description><![CDATA[<p>Da novembre 2023 TrackBot supporta due nuovi corrieri: Prova subito TrackBot, è gratis!</p>
-<p>The article <a href="/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/">Nuovi corrieri: Rhenus Logistics e Liccardi Trasporti</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/">Nuovi corrieri: Rhenus Logistics e Liccardi Trasporti</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/11/corrieri-post-1024x512.jpg" alt="" class="wp-image-545" srcset="/wp-content/uploads/2023/11/corrieri-post-1024x512.jpg 1024w, /wp-content/uploads/2023/11/corrieri-post-300x150.jpg 300w, /wp-content/uploads/2023/11/corrieri-post-768x384.jpg 768w, /wp-content/uploads/2023/11/corrieri-post-1536x768.jpg 1536w, /wp-content/uploads/2023/11/corrieri-post-700x350.jpg 700w, /wp-content/uploads/2023/11/corrieri-post.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-1024x512.jpg" alt="" class="wp-image-545" srcset="https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2023/11/corrieri-post.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -131,7 +131,7 @@
 
 
 <p><a href="https://trackbot.eu/it">Prova subito TrackBot</a>, è gratis!</p>
-<p>The article <a href="/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/">Nuovi corrieri: Rhenus Logistics e Liccardi Trasporti</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/nuovi-corrieri-rhenus-logistics-e-liccardi-trasporti/">Nuovi corrieri: Rhenus Logistics e Liccardi Trasporti</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -139,22 +139,22 @@
 			</item>
 		<item>
 		<title>Hallo, TrackBot è ora disponibile in olandese!</title>
-		<link>/it/hallo-trackbot-e-ora-disponibile-in-olandese/</link>
+		<link>https://blog.trackbot.eu/it/hallo-trackbot-e-ora-disponibile-in-olandese/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Mon, 06 Feb 2023 20:39:07 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=522</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=522</guid>
 
 					<description><![CDATA[<p>Da oggi TrackBot è disponibile anche in lingua olandese! Il bot ora supporta in totale otto lingue: olandese, italiano, inglese, tedesco, russo, portoghese brasiliano, francese, spagnolo e ucraino. Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando /language.</p>
-<p>The article <a href="/it/hallo-trackbot-e-ora-disponibile-in-olandese/">Hallo, TrackBot è ora disponibile in olandese!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/hallo-trackbot-e-ora-disponibile-in-olandese/">Hallo, TrackBot è ora disponibile in olandese!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/02/TW-2-1-1024x512.jpg" alt="" class="wp-image-523" srcset="/wp-content/uploads/2023/02/TW-2-1-1024x512.jpg 1024w, /wp-content/uploads/2023/02/TW-2-1-300x150.jpg 300w, /wp-content/uploads/2023/02/TW-2-1-768x384.jpg 768w, /wp-content/uploads/2023/02/TW-2-1-1536x768.jpg 1536w, /wp-content/uploads/2023/02/TW-2-1-700x350.jpg 700w, /wp-content/uploads/2023/02/TW-2-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-1024x512.jpg" alt="" class="wp-image-523" srcset="https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2023/02/TW-2-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -163,7 +163,7 @@
 
 
 <p>Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando <em>/language</em>. </p>
-<p>The article <a href="/it/hallo-trackbot-e-ora-disponibile-in-olandese/">Hallo, TrackBot è ora disponibile in olandese!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/hallo-trackbot-e-ora-disponibile-in-olandese/">Hallo, TrackBot è ora disponibile in olandese!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -171,18 +171,18 @@
 			</item>
 		<item>
 		<title>InPost Italy è ora tracciabile su TrackBot</title>
-		<link>/it/inpost-italy-e-ora-tracciabile-su-trackbot/</link>
+		<link>https://blog.trackbot.eu/it/inpost-italy-e-ora-tracciabile-su-trackbot/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 10:04:13 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=512</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=512</guid>
 
 					<description><![CDATA[<p>Il servizio di locker e punti di ritiro InPost Italy è ora tracciabile su TrackBot. TrackBot è il bot Telegram gratuito per tracciare tutte le tue spedizioni. Provalo subito cliccando qui.</p>
-<p>The article <a href="/it/inpost-italy-e-ora-tracciabile-su-trackbot/">InPost Italy è ora tracciabile su TrackBot</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/inpost-italy-e-ora-tracciabile-su-trackbot/">InPost Italy è ora tracciabile su TrackBot</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2022/10/TW-1024x512.jpg" alt="" class="wp-image-513" srcset="/wp-content/uploads/2022/10/TW-1024x512.jpg 1024w, /wp-content/uploads/2022/10/TW-300x150.jpg 300w, /wp-content/uploads/2022/10/TW-768x384.jpg 768w, /wp-content/uploads/2022/10/TW-1536x768.jpg 1536w, /wp-content/uploads/2022/10/TW-700x350.jpg 700w, /wp-content/uploads/2022/10/TW.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-1024x512.jpg" alt="" class="wp-image-513" srcset="https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2022/10/TW-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2022/10/TW.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -191,7 +191,7 @@
 
 
 <p><strong>TrackBot</strong> è il <strong>bot Telegram gratuito</strong> per tracciare tutte le tue spedizioni. Provalo subito cliccando <a href="https://t.me/TrackBot" target="_blank" rel="noreferrer noopener">qui</a>.</p>
-<p>The article <a href="/it/inpost-italy-e-ora-tracciabile-su-trackbot/">InPost Italy è ora tracciabile su TrackBot</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/inpost-italy-e-ora-tracciabile-su-trackbot/">InPost Italy è ora tracciabile su TrackBot</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -199,18 +199,18 @@
 			</item>
 		<item>
 		<title>Nuovi corrieri su TrackBot: Canada Post, DHL Netherlands, SpeedPAK</title>
-		<link>/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/</link>
+		<link>https://blog.trackbot.eu/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Mon, 27 Dec 2021 15:21:44 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=504</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=504</guid>
 
 					<description><![CDATA[<p>Da oggi su TrackBot è possibile tracciare 3 nuovi corrieri internazionali. Si tratta in particolare di: Canada Post, il servizio postale canadese DHL Netherlands SpeedPAK, servizio di consegna utilizzato da eBay</p>
-<p>The article <a href="/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/">Nuovi corrieri su TrackBot: Canada Post, DHL Netherlands, SpeedPAK</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/">Nuovi corrieri su TrackBot: Canada Post, DHL Netherlands, SpeedPAK</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2021/12/TW-1024x512.png" alt="" class="wp-image-505" srcset="/wp-content/uploads/2021/12/TW-1024x512.png 1024w, /wp-content/uploads/2021/12/TW-300x150.png 300w, /wp-content/uploads/2021/12/TW-768x384.png 768w, /wp-content/uploads/2021/12/TW-1536x768.png 1536w, /wp-content/uploads/2021/12/TW-700x350.png 700w, /wp-content/uploads/2021/12/TW.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-1024x512.png" alt="" class="wp-image-505" srcset="https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-1024x512.png 1024w, https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-300x150.png 300w, https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-768x384.png 768w, https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-1536x768.png 1536w, https://blog.trackbot.eu/wp-content/uploads/2021/12/TW-700x350.png 700w, https://blog.trackbot.eu/wp-content/uploads/2021/12/TW.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -219,7 +219,7 @@
 
 
 <ul class="wp-block-list"><li><strong>Canada Post</strong>, il servizio postale canadese</li><li><strong>DHL Netherlands</strong></li><li><strong>SpeedPAK</strong>, servizio di consegna utilizzato da eBay</li></ul>
-<p>The article <a href="/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/">Nuovi corrieri su TrackBot: Canada Post, DHL Netherlands, SpeedPAK</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/nuovi-corrieri-su-trackbot-canada-post-dhl-netherlands-speedpak/">Nuovi corrieri su TrackBot: Canada Post, DHL Netherlands, SpeedPAK</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -227,18 +227,18 @@
 			</item>
 		<item>
 		<title>TrackBot ora parla ucraino!</title>
-		<link>/it/ucraino/</link>
+		<link>https://blog.trackbot.eu/it/ucraino/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 16:26:25 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=490</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=490</guid>
 
 					<description><![CDATA[<p>Da oggi TrackBot è disponibile anche in lingua ucraina! Il bot ora supporta in totale otto lingue: italiano, inglese, tedesco, russo, portoghese brasiliano, francese, spagnolo e ucraino. Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando /language.</p>
-<p>The article <a href="/it/ucraino/">TrackBot ora parla ucraino!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/ucraino/">TrackBot ora parla ucraino!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2021/09/ukr_TW-e-sito-1024x512.jpg" alt="" class="wp-image-491" srcset="/wp-content/uploads/2021/09/ukr_TW-e-sito-1024x512.jpg 1024w, /wp-content/uploads/2021/09/ukr_TW-e-sito-300x150.jpg 300w, /wp-content/uploads/2021/09/ukr_TW-e-sito-768x384.jpg 768w, /wp-content/uploads/2021/09/ukr_TW-e-sito-1536x768.jpg 1536w, /wp-content/uploads/2021/09/ukr_TW-e-sito-700x350.jpg 700w, /wp-content/uploads/2021/09/ukr_TW-e-sito.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-1024x512.jpg" alt="" class="wp-image-491" srcset="https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2021/09/ukr_TW-e-sito.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -247,7 +247,7 @@
 
 
 <p>Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando <em>/language</em>. </p>
-<p>The article <a href="/it/ucraino/">TrackBot ora parla ucraino!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/ucraino/">TrackBot ora parla ucraino!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -255,18 +255,18 @@
 			</item>
 		<item>
 		<title>Hola TrackBot!</title>
-		<link>/it/spagnolo/</link>
+		<link>https://blog.trackbot.eu/it/spagnolo/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Fri, 26 Mar 2021 13:04:43 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=475</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=475</guid>
 
 					<description><![CDATA[<p>Da oggi TrackBot è disponibile anche in lingua spagnola! Il bot ora supporta in totale sette lingue: italiano, inglese, tedesco, russo, portoghese brasiliano, francese e spagnolo. Il bot ha già il supporto a Correos, il servizio postale spagnolo. Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile [&#8230;]</p>
-<p>The article <a href="/it/spagnolo/">Hola TrackBot!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/spagnolo/">Hola TrackBot!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2021/03/wide-1024x512.jpg" alt="" class="wp-image-478" srcset="/wp-content/uploads/2021/03/wide-1024x512.jpg 1024w, /wp-content/uploads/2021/03/wide-300x150.jpg 300w, /wp-content/uploads/2021/03/wide-768x384.jpg 768w, /wp-content/uploads/2021/03/wide-1536x768.jpg 1536w, /wp-content/uploads/2021/03/wide-700x350.jpg 700w, /wp-content/uploads/2021/03/wide.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-1024x512.jpg" alt="" class="wp-image-478" srcset="https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2021/03/wide-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2021/03/wide.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -279,7 +279,7 @@
 
 
 <p>Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando <em>/language</em>.</p>
-<p>The article <a href="/it/spagnolo/">Hola TrackBot!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/spagnolo/">Hola TrackBot!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -287,22 +287,22 @@
 			</item>
 		<item>
 		<title>Bonjour TrackBot</title>
-		<link>/it/francese/</link>
+		<link>https://blog.trackbot.eu/it/francese/</link>
 		
 		<dc:creator><![CDATA[francesco]]></dc:creator>
 		<pubDate>Fri, 22 Jan 2021 14:24:30 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=444</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=444</guid>
 
 					<description><![CDATA[<p>A distanza di due mesi dal lancio della versione in inglese, tedesco, russo e portoghese brasiliano,&#160;l’ultimo aggiornamento di TrackBot porta con sé il supporto al francese, che è quindi ora disponibile in sei lingue! Sono inoltre già supportati alcuni importanti corrieri attivi in Francia, tra cui Amazon Logistics, Chronopost, Colissimo e La Poste. Il bot [&#8230;]</p>
-<p>The article <a href="/it/francese/">Bonjour TrackBot</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/francese/">Bonjour TrackBot</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2021/01/tb-french-1024x512.jpg" alt="" class="wp-image-466" srcset="/wp-content/uploads/2021/01/tb-french-1024x512.jpg 1024w, /wp-content/uploads/2021/01/tb-french-300x150.jpg 300w, /wp-content/uploads/2021/01/tb-french-768x384.jpg 768w, /wp-content/uploads/2021/01/tb-french-1536x768.jpg 1536w, /wp-content/uploads/2021/01/tb-french-700x350.jpg 700w, /wp-content/uploads/2021/01/tb-french.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-1024x512.jpg" alt="" class="wp-image-466" srcset="https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-1024x512.jpg 1024w, https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-300x150.jpg 300w, https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-768x384.jpg 768w, https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-1536x768.jpg 1536w, https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french-700x350.jpg 700w, https://blog.trackbot.eu/wp-content/uploads/2021/01/tb-french.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<p>A distanza di due mesi dal <a href="/it/trackbot-in-5-lingue/">lancio</a> della versione in inglese, tedesco, russo e portoghese brasiliano,&nbsp;<strong>l’ultimo aggiornamento di TrackBot porta con sé il supporto al francese</strong>, che è quindi ora disponibile in sei lingue!</p>
+<p>A distanza di due mesi dal <a href="https://blog.trackbot.eu/it/trackbot-in-5-lingue/">lancio</a> della versione in inglese, tedesco, russo e portoghese brasiliano,&nbsp;<strong>l’ultimo aggiornamento di TrackBot porta con sé il supporto al francese</strong>, che è quindi ora disponibile in sei lingue!</p>
 
 
 
@@ -311,7 +311,7 @@
 
 
 <p>Il bot sceglierà la lingua automaticamente in base alle impostazioni del dispositivo. In alternativa, è sempre possibile cambiare la lingua manualmente utilizzando il comando <em>/language</em>.</p>
-<p>The article <a href="/it/francese/">Bonjour TrackBot</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/francese/">Bonjour TrackBot</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -319,18 +319,18 @@
 			</item>
 		<item>
 		<title>TrackBot è ora disponibile in 5 lingue!</title>
-		<link>/it/trackbot-in-5-lingue/</link>
+		<link>https://blog.trackbot.eu/it/trackbot-in-5-lingue/</link>
 		
 		<dc:creator><![CDATA[matteo]]></dc:creator>
 		<pubDate>Tue, 03 Nov 2020 13:38:35 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">/?p=397</guid>
+		<guid isPermaLink="false">https://blog.trackbot.eu/?p=397</guid>
 
 					<description><![CDATA[<p>Ciao! Ci sono voluti cinque anni, 4 milioni di spedizioni e 300mila utenti, ma ora il robottino è pronto per il grande passo. Da pochi giorni TrackBot è disponibile in cinque lingue: italiano, inglese, tedesco, russo e portoghese brasiliano. Ci è voluto così tanto perché rendere TrackBot internazionale è un po&#8217; più complicato di quello [&#8230;]</p>
-<p>The article <a href="/it/trackbot-in-5-lingue/">TrackBot è ora disponibile in 5 lingue!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/trackbot-in-5-lingue/">TrackBot è ora disponibile in 5 lingue!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="580" src="/wp-content/uploads/2020/11/TrackBotEN-Blog-1-1024x580.png" alt="" class="wp-image-418" srcset="/wp-content/uploads/2020/11/TrackBotEN-Blog-1-1024x580.png 1024w, /wp-content/uploads/2020/11/TrackBotEN-Blog-1-300x170.png 300w, /wp-content/uploads/2020/11/TrackBotEN-Blog-1-768x435.png 768w, /wp-content/uploads/2020/11/TrackBotEN-Blog-1-1536x869.png 1536w, /wp-content/uploads/2020/11/TrackBotEN-Blog-1-700x396.png 700w, /wp-content/uploads/2020/11/TrackBotEN-Blog-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="580" src="https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-1024x580.png" alt="" class="wp-image-418" srcset="https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-1024x580.png 1024w, https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-300x170.png 300w, https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-768x435.png 768w, https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-1536x869.png 1536w, https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1-700x396.png 700w, https://blog.trackbot.eu/wp-content/uploads/2020/11/TrackBotEN-Blog-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -346,11 +346,11 @@
 
 
 
-<p>Abbiamo poi realizzato il <strong>nuovo sito web </strong><a href="https://trackbot.eu/" target="_blank" rel="noreferrer noopener">trackbot.eu</a>, totalmente rinnovato, più facile da consultare, e disponibile sia in italiano che in inglese. Abbiamo anche lanciato il <a href="https://t.me/TrackBotNewsEN" target="_blank" rel="noreferrer noopener">canale Telegram</a> per gli aggiornamenti in inglese, così come i nuovi account <a href="https://twitter.com/TrackBotEN" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="http://instagram.com/trackbot_en" target="_blank" rel="noreferrer noopener">Instagram</a>, e il <a href="/en/" target="_blank" rel="noreferrer noopener">blog</a>.</p>
+<p>Abbiamo poi realizzato il <strong>nuovo sito web </strong><a href="https://trackbot.eu/" target="_blank" rel="noreferrer noopener">trackbot.eu</a>, totalmente rinnovato, più facile da consultare, e disponibile sia in italiano che in inglese. Abbiamo anche lanciato il <a href="https://t.me/TrackBotNewsEN" target="_blank" rel="noreferrer noopener">canale Telegram</a> per gli aggiornamenti in inglese, così come i nuovi account <a href="https://twitter.com/TrackBotEN" target="_blank" rel="noreferrer noopener">Twitter</a>, <a href="http://instagram.com/trackbot_en" target="_blank" rel="noreferrer noopener">Instagram</a>, e il <a href="https://blog.trackbot.eu/en/" target="_blank" rel="noreferrer noopener">blog</a>.</p>
 
 
 
-<figure class="wp-block-image size-large"><a href="https://trackbot.eu/it" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="600" src="/wp-content/uploads/2020/11/sito-screenshot-1024x600.png" alt="Cattura schermo del sito web di TrackBot" class="wp-image-422" srcset="/wp-content/uploads/2020/11/sito-screenshot-1024x600.png 1024w, /wp-content/uploads/2020/11/sito-screenshot-300x176.png 300w, /wp-content/uploads/2020/11/sito-screenshot-768x450.png 768w, /wp-content/uploads/2020/11/sito-screenshot-1536x900.png 1536w, /wp-content/uploads/2020/11/sito-screenshot-700x410.png 700w, /wp-content/uploads/2020/11/sito-screenshot.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://trackbot.eu/it" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="600" src="https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-1024x600.png" alt="Cattura schermo del sito web di TrackBot" class="wp-image-422" srcset="https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-1024x600.png 1024w, https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-300x176.png 300w, https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-768x450.png 768w, https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-1536x900.png 1536w, https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot-700x410.png 700w, https://blog.trackbot.eu/wp-content/uploads/2020/11/sito-screenshot.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -362,7 +362,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2020/11/language-orizzontale.png" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2020/11/language-orizzontale-1024x512.png" alt="" class="wp-image-427" srcset="/wp-content/uploads/2020/11/language-orizzontale-1024x512.png 1024w, /wp-content/uploads/2020/11/language-orizzontale-300x150.png 300w, /wp-content/uploads/2020/11/language-orizzontale-768x384.png 768w, /wp-content/uploads/2020/11/language-orizzontale-1536x768.png 1536w, /wp-content/uploads/2020/11/language-orizzontale-700x350.png 700w, /wp-content/uploads/2020/11/language-orizzontale.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale.png" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="512" src="https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-1024x512.png" alt="" class="wp-image-427" srcset="https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-1024x512.png 1024w, https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-300x150.png 300w, https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-768x384.png 768w, https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-1536x768.png 1536w, https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale-700x350.png 700w, https://blog.trackbot.eu/wp-content/uploads/2020/11/language-orizzontale.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -371,7 +371,7 @@
 
 
 <p>Fateci sapere cosa ne pensate tramite <a href="https://twitter.com/TrackBotIT" target="_blank" rel="noreferrer noopener">Twitter</a> o <a href="https://www.instagram.com/trackbot_it/" target="_blank" rel="noreferrer noopener">Instagram</a>. A presto!</p>
-<p>The article <a href="/it/trackbot-in-5-lingue/">TrackBot è ora disponibile in 5 lingue!</a> was published on <a href="/it">TrackBot Blog</a>.</p>
+<p>The article <a href="https://blog.trackbot.eu/it/trackbot-in-5-lingue/">TrackBot è ora disponibile in 5 lingue!</a> was published on <a href="https://blog.trackbot.eu/it">TrackBot Blog</a>.</p>
 ]]></content:encoded>
 					
 		
